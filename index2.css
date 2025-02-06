@@ -1,0 +1,109 @@
+        /* header */
+
+.title{
+ 
+   color: rgb(8, 8, 119);
+   
+
+}
+
+.flex{
+    display: flex;
+}
+
+
+
+
+h3{
+    text-align: center;
+    padding-top:1rem;
+    
+}
+        /* body */
+
+
+        /* introduction */
+
+
+.color-circular{
+    color: blue;
+}
+.color-notice{
+    color: black;
+}
+.bg-mission{
+    background-color: rgb(127, 191, 255);
+    border-top:0.1rem solid #2a1fff;
+    border-bottom:0.1rem solid #2a1fff;
+}
+
+.bg-hm-message{
+    background-color: #d4bfff;
+    border-top:0.1rem solid #2A1fff;
+    border-bottom:0.1rem solid #2A1fff;
+}
+
+        /* card-section */
+.card-section{
+    background-color: #9ACBD0;
+}
+
+
+.card{
+    /* margin-left:1rem; */
+   
+    border-radius: 2rem;
+    transition: all 1s;
+   
+}
+
+.card:hover{
+    transform:scale(1.1);
+}
+
+.card-body{
+    background-color: aliceblue;
+}
+
+
+.teacher{
+    margin-top:5rem;
+    margin-bottom:5rem ;
+}
+
+.Certificate{
+    margin-top:2rem;
+    margin-bottom:2rem ;
+}
+
+.get-btn{
+    margin-top: 7rem;
+}
+
+
+        /* about-Us */
+
+.staff{
+    margin-bottom: 3rem;
+    
+}
+
+.space-row{
+    margin-bottom: 3rem;
+}
+
+
+.bg-color{
+    background-color: #FBFBFB;;
+}
+
+        /* footer */
+.footer{
+    text-align: center;
+    padding: 1rem;
+    background-color: rgba(0,0,0, 0.05);
+}
+.footer li{
+   
+    display: inline-block;
+}        
